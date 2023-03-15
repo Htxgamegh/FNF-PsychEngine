@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Monika Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				72
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Monika Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				72
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Monika Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				72
+			],
+			"anim": "singLEFT",
+			"fps": 25,
+			"name": "Monika Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-136,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Monika Idle"
+		},
+		{
+			"offsets": [
+				-136,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "screen",
+			"loop": false,
+			"name": "Monika Screen"
+		},
+		{
+			"offsets": [
+				-136,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "Monika Room"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Monika",
+	"position": [
+		-210,
+		60
+	],
+	"healthicon": "monika",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		165,
+		62
+	],
+	"camera_position": [
+		230,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

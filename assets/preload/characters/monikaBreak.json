@@ -2,76 +2,76 @@
 	"animations": [
 		{
 			"offsets": [
-				-113,
-				72
+				-136,
+				235
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "BF Idle"
+			"name": "MonikaBreak Idle"
 		},
 		{
 			"offsets": [
 				-136,
-				72
+				255
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "BF Up"
+			"name": "MonikaBreak Up"
 		},
 		{
 			"offsets": [
-				-126,
-				72
+				-136,
+				235
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "BF Down"
+			"name": "MonikaBreak Down"
 		},
 		{
 			"offsets": [
 				-136,
-				81
+				237
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "BF Right"
+			"name": "MonikaBreak Right"
 		},
 		{
 			"offsets": [
 				-136,
-				72
+				235
 			],
 			"indices": [],
 			"fps": 25,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "BF Left"
+			"name": "MonikaBreak Left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/E Boy",
+	"image": "characters/MonikaBreak",
 	"position": [
 		-210,
 		60
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "monika",
+	"flip_x": false,
 	"healthbar_colors": [
 		49,
 		176,
 		209
 	],
 	"camera_position": [
-		-130,
-		-60
+		230,
+		-100
 	],
 	"sing_duration": 4,
 	"scale": 1
